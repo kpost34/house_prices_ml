@@ -1,4 +1,4 @@
-# **House Prices Regression Project**
+# **House Prices Machine Learning Project**
 Predict housing prices using a machine learning algorithm.
 
 ## Summary
@@ -7,13 +7,12 @@ imputation (for missing values), and various forms of feature engineering/select
 
 
 ## Report
-+ [Report: html format](https://kpost34.github.io/house_prices/) 
++ [Report: html format](https://kpost34.github.io/house_prices_ml/) 
 
 
 #### **Project Creator: Keith Post**
 + [Github Profile](https://github.com/kpost34) 
 + [LinkedIN Profile](https://www.linkedin.com/in/keith-post/)
 + [Email](mailto:keithhpost@gmail.com)
-
 
 
