@@ -13,6 +13,6 @@ imputation (for missing values), and various forms of feature engineering/select
 #### **Project Creator: Keith Post**
 + [Github Profile](https://github.com/kpost34) 
 + [LinkedIN Profile](https://www.linkedin.com/in/keith-post/)
-+ [Email](mailto:keithhpost@gmail.com)
++ [Email](mailto:keithpost.kp@gmail.com)
 
 
